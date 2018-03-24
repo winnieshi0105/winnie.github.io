@@ -1,0 +1,19 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+body {
+	font-family: "Noto Sans TC";
+}
+
+h1 {
+  font-family: inherit;
+  text-transform: none;
+  line-height: 6rem;
+}
+
+subheading {
+  font-family: inherit;
+  text-transform: none;
+  margin-top: 1rem;
+}
+
+	

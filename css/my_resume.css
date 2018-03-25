@@ -16,4 +16,16 @@ subheading {
   margin-top: 1rem;
 }
 
+h3 {
+  font-family: inherit;
+  text-transform: none;
+  line-height: 1.75rem;
+}
+
+subheading {
+  font-family: inherit;
+  text-transform: none;
+  margin-top: 1.35rem;
+}
+
 	

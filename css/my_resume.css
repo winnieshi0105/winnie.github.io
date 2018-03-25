@@ -22,8 +22,8 @@ h3 {
   line-height: 1.75rem;
 }
 
-subheading.mb-3 {
-  font-family: inherit;
+subheading mb-3 {
+  font-family: "Noto Sans TC";
   text-transform: none;
   margin-top: 1.35rem;
 }

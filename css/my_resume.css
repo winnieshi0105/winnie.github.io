@@ -22,3 +22,8 @@ h3 {
   line-height: 1.75rem;
 }
 
+h4 {
+  font-family: inherit;
+  text-transform: none;
+  line-height: 1.75rem;
+}

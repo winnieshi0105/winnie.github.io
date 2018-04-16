@@ -1,4 +1,3 @@
-
 img
 {
 	vertical-align: middle;
@@ -118,7 +117,7 @@ img
 
                 .timeline-centered .timeline-entry.left-aligned .timeline-entry-inner .timeline-label {
                     margin-left: 0;
-                    margin-right: 70px;
+                    margin-right: 595px;
                 }
 
                     .timeline-centered .timeline-entry.left-aligned .timeline-entry-inner .timeline-label:after {
@@ -241,6 +240,8 @@ img
                 -webkit-border-radius: 3px;
                 -moz-border-radius: 3px;
                 border-radius: 3px;
+				width: 475px;
+                height: 454.4px;
             }
 
                 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label:after {
@@ -263,6 +264,8 @@ img
                     font-size: 18px;
                     margin: 0;
                     line-height: 1.428571429;
+					width: 304.4px;
+                    height: 454.4;
                 }
 
                     .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label p + p {

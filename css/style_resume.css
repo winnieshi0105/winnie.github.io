@@ -2,8 +2,7 @@ div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 230px;
-    height: 300px;
+    width: 250px;
 }
 
 div.gallery:hover {
@@ -20,6 +19,7 @@ div.desc {
     text-align: center;
 }
 
-td {
-width:22%,28%,22%,28%;
+td,tr {
+width: 22%,28%,22%,28%;
+height: 100px;
 }
